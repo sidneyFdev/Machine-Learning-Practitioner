@@ -2,7 +2,7 @@
 
 ## Reconhecimento de imagens de cães e gatos
 
-Este repositório é um projeto do curso **BairesDev - Machine Learning Practitioner** disponibilidado pela plataforma Dio.me, provindo do capitulo **_Treinamento de Redes Neurais com Transfer Learning_**.
+Este repositório é um projeto do curso **BairesDev - Machine Learning Practitioner** disponibilizado pela plataforma Dio.me, provindo do capitulo **_Treinamento de Redes Neurais com Transfer Learning_**.
 
 :bookmark_tabs: Sendo assim, este repositório será utilizado somente para fins de **aprendizado**.
 
