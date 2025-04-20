@@ -1,6 +1,7 @@
-# Projetos de Aprendizado de Máquina com Python
+# Projetos de Aprendizado de Máquina com Python  
 
 Este repositório contém vários projetos do curso **BairesDev - Machine Learning Practitioner** disponibilizado pela plataforma Dio.me, com o objetivo de aplicar diferentes técnicas e algoritmos de aprendizado de máquina em Python.
+
 ---
 
 ## Transfer Learning em Python - Reconhecimento de Imagens de Cães e Gatos
