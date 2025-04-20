@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Projetos de Aprendizado de Máquina com Python
 
 Este repositório contém vários projetos do curso **BairesDev - Machine Learning Practitioner** disponibilizado pela plataforma Dio.me, com o objetivo de aplicar diferentes técnicas e algoritmos de aprendizado de máquina em Python. Cada projeto se concentra em um tema específico e é uma excelente oportunidade para aprender na prática.
@@ -20,7 +21,7 @@ Este projeto aborda a **redução de dimensionalidade** em imagens coloridas, ut
 
 A transformação de uma imagem colorida para os formatos de cinza e binário pode ser visualizada através da imagem de exemplo abaixo:
 
-![alt text](image.png)
+![alt text](image_project_2.png)
 
 > Figura 1: Lena colorida (imagem de entrada), em níveis de cinza e preto e branca.
 
@@ -82,6 +83,13 @@ Os códigos e exemplos contidos nesse repositório têm como principal objetivo 
 ## Reconhecimento de imagens de cães e gatos
 
 Este repositório é um projeto do curso **BairesDev - Machine Learning Practitioner** disponibilizado pela plataforma Dio.me, provindo do capitulo **_Treinamento de Redes Neurais com Transfer Learning_**.
+=======
+# Redução de Dimensionalidade de Imagens para Redes Neurais com Python
+
+# Projeto Dio - Função para conversão de imagens
+
+Este repositório é um projeto do curso **BairesDev - Machine Learning Practitioner** disponibilizado pela plataforma Dio.me, provindo do capitulo **_Redução de Dimensionalidade em Imagens para Redes Neurais_**.
+>>>>>>> project_2-branch
 
 :bookmark_tabs: Sendo assim, este repositório será utilizado somente para fins de **aprendizado**.
 
@@ -93,6 +101,7 @@ ___
 
 ## Descrição do projeto na plataforma Dio.me
 
+<<<<<<< HEAD
 ### **Projeto de Transfer Learning em Python**
 
 O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB.  
@@ -118,3 +127,16 @@ O projeto deve ser enviado para o GitHub da DIO:
 
 
 >>>>>>> project_1-branch
+=======
+### **Redução de Dimensionalidade em Imagens para Redes Neurais**
+
+Seguindo o exemplo do algoritmo de binarização apresentado em nossa última aula, realize a implementação em Python para transformar uma imagem colorida para níveis de cinza (0 a 255) e para binário (0 e 255), preto e branco.  
+
+Por meio da imagem é possível visualizar os dois casos esperados: 
+
+![alt text](image.png)
+
+> Figura 1: Lena colorida (imagem de entrada), em níveis de cinza e preto e branca. 
+
+
+>>>>>>> project_2-branch
