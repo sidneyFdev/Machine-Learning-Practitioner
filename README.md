@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Projetos de Aprendizado de Máquina com Python
 
 Este repositório contém vários projetos do curso **BairesDev - Machine Learning Practitioner** disponibilizado pela plataforma Dio.me, com o objetivo de aplicar diferentes técnicas e algoritmos de aprendizado de máquina em Python. Cada projeto se concentra em um tema específico e é uma excelente oportunidade para aprender na prática.
@@ -77,66 +75,3 @@ Observação: Você pode também utilizar seu próprio dataset, substituindo as 
 Esses projetos foram criados com fins **educacionais** no contexto do curso **BairesDev - Machine Learning Practitioner** na plataforma Dio.me. 
 
 Os códigos e exemplos contidos nesse repositório têm como principal objetivo a **aprendizagem prática** em diferentes áreas do aprendizado de máquina com Python.
-=======
-# Projeto Dio - Transfer Learning em Python
-
-## Reconhecimento de imagens de cães e gatos
-
-Este repositório é um projeto do curso **BairesDev - Machine Learning Practitioner** disponibilizado pela plataforma Dio.me, provindo do capitulo **_Treinamento de Redes Neurais com Transfer Learning_**.
-=======
-# Redução de Dimensionalidade de Imagens para Redes Neurais com Python
-
-# Projeto Dio - Função para conversão de imagens
-
-Este repositório é um projeto do curso **BairesDev - Machine Learning Practitioner** disponibilizado pela plataforma Dio.me, provindo do capitulo **_Redução de Dimensionalidade em Imagens para Redes Neurais_**.
->>>>>>> project_2-branch
-
-:bookmark_tabs: Sendo assim, este repositório será utilizado somente para fins de **aprendizado**.
-
-### Tecnologias
-
-- PYTHON
-- GOOGLE COLAB (free)
-___
-
-## Descrição do projeto na plataforma Dio.me
-
-<<<<<<< HEAD
-### **Projeto de Transfer Learning em Python**
-
-O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB.  
-
-Para exemplo, utilizaremos o seguinte projeto que realiza Transfer Learning com o Dataset do MNIST:  
-   
-> :link: <https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb> 
-
-O dataset utilizado engloba duas classes: gatos e cachorros. Uma descrição da base de dados pode ser visualizada neste link:  
-  
-> :link: <https://www.tensorflow.org/datasets/catalog/cats_vs_dogs>. 
-
-Já o dataset para download pode ser acessado por meio deste outro link:
-
-> :link: <https://www.microsoft.com/en-us/download/details.aspx?id=54765>. 
-
-Observações: Neste projeto, você pode usar sua própria base de dados (exemplo: fotos suas, dos seus pais, dos seus amigos, dos seus animais domésticos, etc), o exemplo de gatos e cachorros, pode ser substituído por duas outras classes do seu interesse. O Dataset criado em nosso projeto anterior, pode ser utilizado agora.  
-
-O projeto deve ser enviado para o GitHub da DIO:  
-
-> :link: <https://github.com/digitalinnovationone>.
-
-
-
->>>>>>> project_1-branch
-=======
-### **Redução de Dimensionalidade em Imagens para Redes Neurais**
-
-Seguindo o exemplo do algoritmo de binarização apresentado em nossa última aula, realize a implementação em Python para transformar uma imagem colorida para níveis de cinza (0 a 255) e para binário (0 e 255), preto e branco.  
-
-Por meio da imagem é possível visualizar os dois casos esperados: 
-
-![alt text](image.png)
-
-> Figura 1: Lena colorida (imagem de entrada), em níveis de cinza e preto e branca. 
-
-
->>>>>>> project_2-branch
