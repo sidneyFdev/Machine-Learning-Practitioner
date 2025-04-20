@@ -4,7 +4,7 @@ Este repositório contém vários projetos do curso **BairesDev - Machine Learni
 
 ---
 
-## Transfer Learning em Python - Reconhecimento de Imagens de Cães e Gatos
+## [Transfer Learning em Python - Reconhecimento de Imagens de Cães e Gatos](./ML_Transfer_Learning_em_Python.ipynb)
 
 ### **Descrição do Projeto**
 
@@ -29,7 +29,7 @@ Observação: Você pode também utilizar seu próprio dataset, substituindo as 
 
 ---
 
-## Redução de Dimensionalidade de Imagens para Redes Neurais com Python
+## [Redução de Dimensionalidade de Imagens para Redes Neurais com Python](./Redimensionando_imagens_para_redes_neurais.ipynb)
 
 ### **Descrição do Projeto**
 
@@ -50,7 +50,7 @@ A transformação de uma imagem colorida para os formatos de cinza e binário po
 
 ---
 
-## Cálculo de Métricas de Avaliação de Aprendizado com Python
+## [Cálculo de Métricas de Avaliação de Aprendizado com Python](./Calculando_Métricas_da_matriz_de_confusão.ipynb)
 
 ### **Descrição do Projeto**
 
